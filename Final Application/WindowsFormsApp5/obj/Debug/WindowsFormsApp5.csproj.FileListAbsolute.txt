@@ -1,0 +1,74 @@
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ViewDetails.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.HomeScreen.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AdminLogin.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.MainScreen.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Watchlsit.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\aa\WindowsFormsApp5.resources.dll
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\aa\WindowsFormsApp5.resources.dll
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\aa\WindowsFormsApp5.resources.dll
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ViewDetails.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.HomeScreen.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AdminLogin.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.MainScreen.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Watchlsit.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\aa\WindowsFormsApp5.resources.dll
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Addnew.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Addnew.aa.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Addnew.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Prototype\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Addnew.aa.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\bin\Debug\aa\WindowsFormsApp5.resources.dll
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Addnew.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ViewDetails.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.HomeScreen.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AdminLogin.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.MainScreen.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Watchlsit.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Addnew.aa.resources
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\aa\WindowsFormsApp5.resources.dll
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\SN\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\bin\Debug\aa\WindowsFormsApp5.resources.dll
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Addnew.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ViewDetails.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.HomeScreen.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AdminLogin.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.MainScreen.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Watchlsit.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Addnew.aa.resources
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\aa\WindowsFormsApp5.resources.dll
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Owner\Desktop\course-project-gang-gang\Project Final Submission\Final Application\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
